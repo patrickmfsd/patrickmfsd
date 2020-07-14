@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👨🏻‍💻 Hi   
 
-<!--
-**patrickmfsd/patrickmfsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://patrickmfsd.github.io/images/profile.png" width="250">
 
-Here are some ideas to get you started:
+***My name is Patrick,***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Software and Web Developer from Melbourne, Australia 🇦🇺. I have recently completed my Bacholor of Information Technology.
+
+I have experience with Swift, Web Development, Automation (macOS Automator and iOS Shortcuts), C, and Design and UI Prototyping. I also play guitar, enjoy graphic design and photography and tinkering with electronics. 
+
+
+[Portfolio](https://patrickmfsd.github.io) | [Twitter](https://twitter.com/patrickmfsd/) | [LinkedIn](https://twitter.com/patrickmfsd/)
+
