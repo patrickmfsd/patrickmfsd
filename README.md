@@ -1,7 +1,5 @@
 # 👨🏻‍💻 Hi   
 
-<img align="right" src="https://patrickmfsd.github.io/images/profile.png" width="250">
-
 I’m a iOS Developer and Web Developer from Melbourne, Australia 🇦🇺. In 2020 I completed my Bacholor of Information Technology at RMIT University.
 
 I have experience with Swift, Web Development, Automation (macOS Automator and Shortcuts), C, and UI Prototyping. I also play guitar, enjoy graphic design and photography and tinkering with electronics. 
